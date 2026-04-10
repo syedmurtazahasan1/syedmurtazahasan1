@@ -13,15 +13,6 @@ I'm a second-year Computer Science student at Lancaster University with interest
 - **Areas of Interest:** Robotics, Control Systems, AI, Software Development
 - **Other Skills:** Data Structures, Algorithms, Object-Oriented Programming, Database Design
 
-## Featured Project
-### Database Project
-A database-focused project demonstrating data modeling, storage, querying, and backend logic.
-
-**Highlights:**
-- Designed and implemented a structured database system
-- Worked with data organization and efficient querying
-- Applied core software engineering and problem-solving skills
-
 ## Goals
 - Build more projects in robotics and AI
 - Strengthen my understanding of control systems
